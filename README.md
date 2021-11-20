@@ -19,6 +19,9 @@
 ## skill
 - Language
   - Kotlin, JAVA, C++
+- Design
+  - PHOTOSHOP, ILLUSTRATION, PREMIRE PRO
+
 ## Activity
 - 광고연합 동아리 AD College
 - IT창업 동아리 SOPT 29기~
