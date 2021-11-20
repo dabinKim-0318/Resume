@@ -20,6 +20,7 @@
 - Language
   - Kotlin, JAVA, C++
 ## Activity
+- 광고연합 동아리 AD College
 - IT창업 동아리 SOPT 29기~
 ## prize
 - 2018 KT 10G 마케팅 공모전 우수상
