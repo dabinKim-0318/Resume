@@ -23,7 +23,7 @@
   - PHOTOSHOP, ILLUSTRATION, PREMIRE PRO
 
 ## Activity
-- 광고연합 동아리 AD College
+- 광고연합 동아리 AD College 임원
 - IT창업 동아리 SOPT 29기(안드로이드 파트)
 - DND 6기(안드로이드 개발자)
 ## prize
