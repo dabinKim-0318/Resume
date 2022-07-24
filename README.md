@@ -4,7 +4,7 @@
 이젠 제일 좋아하는 일을 찾았으니 더 힘차게 달려보겠습니다  
 🖊    [velog](https://velog.io/@dabin)  
 🙋‍♀️    [resume](https://github.com/dabinKim-0318/Resume)  
-💖 [portfolio](https://abundant-playground-8c8.notion.site/c95a0a8f88e3413fbcd71b922bb7c9fd)
+
 ***
 ### 목차 
 [1.Work](#work)  
